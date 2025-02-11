@@ -8,3 +8,5 @@
 
 - Once streamlit library is installed.
     - streamlit run app.py
+
+- Before starting Development work make a branch.
