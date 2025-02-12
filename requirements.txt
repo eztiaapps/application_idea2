@@ -1,3 +1,6 @@
 streamlit
 pandas
 openai
+docx2txt
+requests
+python-dotenv
